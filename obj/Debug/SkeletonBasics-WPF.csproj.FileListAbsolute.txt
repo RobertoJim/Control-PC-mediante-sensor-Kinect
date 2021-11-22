@@ -1,0 +1,123 @@
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Roberto\Downloads\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\SkeletonBasic_P3\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\Practica\13\Interfaz_natural\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\Practica Autonoma\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\Practica\Autonoma\COPIA SEGURIDAD\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado y movimiento'sencillo'(16-05)\Click implementado y movimiento'sencillo'(16-05)\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Click implementado(08-05)\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\SkeletonBasics-WPF.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\MainWindow.baml
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\MainWindow.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\App.g.cs
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\Sistemas Electronicos Interactivos\PRUEBA PRACTICA AUTONOMA\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+E:\Sistemas Electronicos Interactivos\Entrega practica autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.exe
+E:\Sistemas Electronicos Interactivos\Entrega practica autonoma\Practica Autonoma\obj\Debug\SkeletonBasics-WPF.pdb
